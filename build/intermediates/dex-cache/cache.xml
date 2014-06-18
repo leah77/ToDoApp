@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\ToDoApp\ToDoApp\build\intermediates\pre-dexed\debug\classes-fdcf115dd5cd9845e3ffead4f1df0940a0c0452b.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\ToDoApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\ToDoApp\ToDoApp\build\intermediates\pre-dexed\debug\support-v4-19.1.0-172c13a5cddbe5e073448e91f2e7c97c09bca6bb.jar"
+        jar="C:\Program Files\Android\android-studio3\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\ToDoApp\ToDoApp\build\intermediates\pre-dexed\debug\commons-io-2.4-e980be4df010e4827461e512806d5fd82716b9d6.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\ToDoApp\ToDoApp\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+
+</pre-dex-items>
